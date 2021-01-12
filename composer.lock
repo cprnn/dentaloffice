@@ -704,6 +704,10 @@
                 "grid",
                 "laravel"
             ],
+            "support": {
+                "issues": "https://github.com/z-song/laravel-admin/issues",
+                "source": "https://github.com/z-song/laravel-admin/tree/v1.8.11"
+            },
             "time": "2020-11-15T02:55:51+00:00"
         },
         {
@@ -6564,5 +6568,6 @@
     "platform": {
         "php": "^7.3|^8.0"
     },
-    "platform-dev": []
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
 }
