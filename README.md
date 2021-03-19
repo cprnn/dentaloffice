@@ -9,7 +9,6 @@ Dental Office is a dental clinic management system, with the objective of organi
 
 The main objective of this project is to learn new technologies, with an emphasis on Laravel and its support frameworks.
 
-
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
