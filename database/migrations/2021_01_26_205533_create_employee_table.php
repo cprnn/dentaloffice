@@ -33,7 +33,7 @@ class CreateEmployeeTable extends Migration
             $table->string('contractType'); //CLT or MEI
 
             //HR info
-            $table->boolean('isActive'); //->contrato ativo ou inativo?
+            $table->boolean('is_active'); //->contrato ativo ou inativo?
             $table->string('payment')->nullable();
             $table->date('admissionDate');
             $table->string('departament');
